@@ -705,7 +705,7 @@ declare namespace $app {
      * @event DebridLocalDownloadRequestedEvent
      * @file internal/debrid/client/hook_events.go
      * @description
-     * DebridLocalDownloadRequestedEvent is triggered when Seanime is about to download a debrid torrent locally.
+     * DebridLocalDownloadRequestedEvent is triggered when Tori is about to download a debrid torrent locally.
      * Prevent default to skip the default download and override the download.
      */
     function onDebridLocalDownloadRequested(cb: (event: DebridLocalDownloadRequestedEvent) => void): void;
@@ -1278,7 +1278,7 @@ declare namespace $app {
      * @event ScanMediaFetcherStartedEvent
      * @file internal/library/scanner/hook_events.go
      * @description
-     * ScanMediaFetcherStartedEvent is triggered right before Seanime starts fetching media to be matched against the local files.
+     * ScanMediaFetcherStartedEvent is triggered right before Tori starts fetching media to be matched against the local files.
      */
     function onScanMediaFetcherStarted(cb: (event: ScanMediaFetcherStartedEvent) => void): void;
 

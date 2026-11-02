@@ -6,7 +6,7 @@
   "language": "typescript",
   "type": "plugin",
   "description": "Customize the banner images of anime and manga in your AniList collection.",
-  "author": "Seanime",
+  "author": "Tori",
   "icon": "https://raw.githubusercontent.com/yeonvvx/tori-extensions/main/plugins/custom-banner-images/icon.png",
   "website": "https://github.com/yeonvvx/tori-extensions",
   "lang": "multi",
