@@ -4,36 +4,36 @@
     "name": "Custom Banner Images",
     "description": "Customize the banner images of anime and manga in your AniList collection.",
     "author": "Seanime",
-    "manifestURI": "https://raw.githubusercontent.com/5rahim/seanime-extensions/main/plugins/custom-banner-images/custom-banner-images.json",
-    "icon": "https://raw.githubusercontent.com/5rahim/seanime-extensions/main/plugins/custom-banner-images/icon.png",
+    "manifestURI": "https://raw.githubusercontent.com/yeonvvx/tori-extensions/main/plugins/custom-banner-images/custom-banner-images.json",
+    "icon": "https://raw.githubusercontent.com/yeonvvx/tori-extensions/main/plugins/custom-banner-images/icon.png",
     "type": "plugin",
     "language": "typescript",
     "lang": "multi",
-    "website": "https://github.com/5rahim/seanime-extensions"
+    "website": "https://github.com/yeonvvx/tori-extensions"
   },
   {
     "id": "custom-cover-images",
     "name": "Custom Cover Images",
     "description": "Customize the cover images of anime and manga in your AniList collection.",
     "author": "Seanime",
-    "manifestURI": "https://raw.githubusercontent.com/5rahim/seanime-extensions/main/plugins/custom-cover-images/custom-cover-images.json",
-    "icon": "https://raw.githubusercontent.com/5rahim/seanime-extensions/main/plugins/custom-cover-images/icon.png",
+    "manifestURI": "https://raw.githubusercontent.com/yeonvvx/tori-extensions/main/plugins/custom-cover-images/custom-cover-images.json",
+    "icon": "https://raw.githubusercontent.com/yeonvvx/tori-extensions/main/plugins/custom-cover-images/icon.png",
     "type": "plugin",
     "language": "typescript",
     "lang": "multi",
-    "website": "https://github.com/5rahim/seanime-extensions"
+    "website": "https://github.com/yeonvvx/tori-extensions"
   },
   {
     "id": "discord-rpc-hide-logo",
     "name": "Discord RPC Hide Logo",
     "description": "Hide the Seanime logo in Discord Rich Presence.",
     "author": "Seanime",
-    "manifestURI": "https://raw.githubusercontent.com/5rahim/seanime-extensions/main/plugins/discord-rpc-hide-logo/discord-rpc-hide-logo.json",
-    "icon": "https://raw.githubusercontent.com/5rahim/seanime-extensions/main/plugins/discord-rpc-hide-logo/icon.png",
+    "manifestURI": "https://raw.githubusercontent.com/yeonvvx/tori-extensions/main/plugins/discord-rpc-hide-logo/discord-rpc-hide-logo.json",
+    "icon": "https://raw.githubusercontent.com/yeonvvx/tori-extensions/main/plugins/discord-rpc-hide-logo/icon.png",
     "type": "plugin",
     "language": "typescript",
     "lang": "multi",
-    "website": "https://github.com/5rahim/seanime-extensions"
+    "website": "https://github.com/yeonvvx/tori-extensions"
   },
   {
     "id": "alternative-titles",

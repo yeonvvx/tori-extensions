@@ -8,7 +8,7 @@ function init() {
     $ui.register((ctx) => {
         // Create the tray icon
         const tray = ctx.newTray({
-            iconUrl: "https://raw.githubusercontent.com/5rahim/seanime-extensions/main/plugins/custom-banner-images/icon.png",
+            iconUrl: "https://raw.githubusercontent.com/yeonvvx/tori-extensions/main/plugins/custom-banner-images/icon.png",
             withContent: true,
             width: "350px",
         })
